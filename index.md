@@ -18,12 +18,6 @@ allowfullscreen>
 
 यूट्यूब पर देखें "कर्ता करे ना कर सके शिव करे सो होए": 
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/ainfUzfpMJU"
-title="YouTube video player"
-frameborder="0"
-allowfullscreen>
-</iframe>
 🔗 आधिकारिक वीडियो देखने के लिए यहां क्लिक करें 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/ainfUzfpMJU"
