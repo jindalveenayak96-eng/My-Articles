@@ -8,8 +8,8 @@ src="https://www.youtube.com/embed/ainfUzfpMJU"
 title="YouTube video player"
 frameborder="0"
 allowfullscreen>
-  
 </iframe>
+
 इस गीत का मुख्य विषय प्राचीन ज्ञान में निहित है: जहां मानवीय प्रयासों का अपना स्थान है, वहीं अंतिम नियति महाकाल द्वारा तय की जाती है। इसके सशक्त बोल—"तीन लोक नौ खंड में, महाकाल से बड़ा ना कोई"—श्रोताओं को भगवान शिव की सर्वव्यापकता की याद दिलाते हैं। माया के भ्रम और आत्मा की यात्रा को टटोलता यह ट्रैक एक ऐसा ध्यानमग्न अनुभव देता है जो सीधे सुनने वाले के दिल की धड़कन से जुड़ जाता है। 
 
 ## आधुनिक ध्वनि और कालातीत भक्ति का मिलन 
@@ -24,3 +24,4 @@ src="https://www.youtube.com/embed/ainfUzfpMJU"
 title="YouTube video player"
 frameborder="0"
 allowfullscreen>
+</iframe>
